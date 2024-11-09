@@ -3,6 +3,7 @@ import java.util.*;
 
 public class GFG {
 
+
 	static String[] board;
 	static String turn;
 
